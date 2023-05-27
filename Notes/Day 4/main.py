@@ -53,18 +53,6 @@ print(dirty_dozen[0])
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # Reference link :- askpython.com
 
 # random vs Pseudorandom-number-generator
