@@ -11,3 +11,4 @@ def prime_checker(number):
         print("It is not a prime Number")
 
 prime_checker(number)
+
